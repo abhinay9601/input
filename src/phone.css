@@ -1,0 +1,29 @@
+input[type="tel"] {
+    border: none;
+    border-bottom: 2px solid #000;
+    outline: none;
+    margin: 10px;
+    width: 50px;
+    text-align: center;
+  }
+
+  .option{
+    display: flex;
+    width: 420px;
+    margin: 20px auto;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(44, 44, 160);
+    font-size: 1.2rem;
+  }
+  button{
+    border: 0;
+    background-color: rgb(92 155 92);
+    height: 55px;
+    padding: 15px;
+    border-radius: 20px;
+    color: #fff;
+    font-size: 1.2rem;
+    margin: 20px;
+  }
